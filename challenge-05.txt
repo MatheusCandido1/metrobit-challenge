@@ -1,0 +1,5 @@
+My goal here is to move more than 1 floor per drop, otherwise, it would be the maximum
+of drops instead of as few drops as possible. For this, I will use the measure of 10
+floors. With this, every time I drop an egg and it doesn't break, I’m going to go up by 10
+floors. As soon as the first egg breaks, I’m going to step up 5 floors per drop. I believe it
+would be more than 10 drops but less than 15 drops, due to 100 floors ceiling.
